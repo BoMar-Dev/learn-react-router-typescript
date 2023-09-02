@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learn-react-router-typescript/static/css/main.e6c13ad2.css",
+    "main.js": "/learn-react-router-typescript/static/js/main.c6f35709.js",
+    "index.html": "/learn-react-router-typescript/index.html",
+    "main.e6c13ad2.css.map": "/learn-react-router-typescript/static/css/main.e6c13ad2.css.map",
+    "main.c6f35709.js.map": "/learn-react-router-typescript/static/js/main.c6f35709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c6f35709.js"
+  ]
+}
